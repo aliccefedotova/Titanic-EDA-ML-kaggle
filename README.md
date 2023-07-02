@@ -5,4 +5,6 @@ In Jupyter Homenotebook titanic.ipynb contains a file of the implementation of M
 
 
 test.csv - test_data
+
+
 train.cvs - train_data
